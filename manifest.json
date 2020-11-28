@@ -2,9 +2,15 @@
 	"manifest_version": 2,
 	"name": "Chrome Minimal Scrollbar",
 	"version": "1.0",
-	"description": "scrollbars",
-	"content_scripts": [ {
-		"matches": ["<all_urls>"],
-		"css":["scroll.css"]
-	} ]
+	"description": "Global CSS scrollbar. No JavaScript. All CSS.",
+	"content_scripts": [
+		{
+			"matches": [
+				"<all_urls>"
+			],
+			"css": [
+				"scroll.css"
+			]
+		}
+	]
 }
