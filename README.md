@@ -20,5 +20,5 @@ I will not respond to errors or problems on Twitter but you should still follow 
 
 ## License
 
-- BSD Zero Clause <a href="https://github.com/downthecrop/chrome-minimal-scrollbar/blob/main/LICENSE">LICENSE</a>
+- MIT License <a href="https://github.com/downthecrop/chrome-minimal-scrollbar/blob/main/LICENSE">LICENSE</a>
 - Copyright 2020 © <a href="https://downthecrop.xyz/" target="_blank">downthecrop</a>.
