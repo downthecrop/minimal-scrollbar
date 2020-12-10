@@ -2,7 +2,7 @@
 
 Custom CSS for Chrome Scroll Bar
 
-[Chrome Store Download](#)
+[Chrome Store Download](https://chrome.google.com/webstore/detail/chrome-minimal-scrollbar/bcbbhmacggoijgmopaeaaclkemaagdio)
 
 |Before![default Scrollbar](https://i.imgur.com/wDyXElr.png)|After ![custom CSS scrollbar](https://i.imgur.com/RsDLSHJ.png)|
 |--|--|
