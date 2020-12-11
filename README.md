@@ -1,4 +1,4 @@
-# chrome-minimal-scrollbar
+# minimal-scrollbar
 
 Custom CSS for Chrome Scroll Bar
 
